@@ -13,5 +13,5 @@ properties:
     description: "Port on which server is listening"
     default: 8080
   servers:
-    description: "List of servers to redirect requests"
+    description: "List of servers to redirect requests e.g. http://10.244.0.62:8080"
     default: []
